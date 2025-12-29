@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jhonatan Petro",
     "label": "Full Stack Developer",
-    "image": "frame.jpg",
+    "image": "Frame.jpg",
     "email": "jpetroruiz@gmail.com",
     "phone": "+57 3004105733",
-    "url": "https://midu.dev",
-    "summary": "Hola, soy un apasionado desarrollador de software enfocado en el FrontEnd. Actualmente trabajo con React y me encanta aprender nuevas tecnologías para perfeccionar mis habilidades. También estoy abierto a explorar todo lo relacionado con js y aprender nuevas cosas en ese ámbito. Me encanta trabajar en equipo y crear un ambiente cómodo y amigable para todos. Siempre busco nuevos retos y oportunidades para aprender, cada proyecto me enseña algo nuevo y me hace crecer profesionalmente. Estoy siempre buscando formas de mejorar y aprender, tanto en mi vida personal como profesional.",
+    "url": "https://portfolio-sure--portfolio-sure.netlify.app/",
+    "summary": "Hola, soy un apasionado desarrollador de software enfocado en el FrontEnd. Actualmente trabajo con Angular y me encanta aprender nuevas tecnologías para perfeccionar mis habilidades. También estoy abierto a explorar todo lo relacionado con js. Me encanta trabajar en equipo y crear un ambiente cómodo y amigable para todos. Siempre busco nuevos retos y oportunidades para aprender, cada proyecto me enseña algo nuevo y me hace crecer profesionalmente. Estoy siempre buscando formas de mejorar y aprender, tanto en mi vida personal como profesional.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -29,13 +29,26 @@
   },
   "work": [
     {
+      "name": "Legal Service Design & Technology",
+      "position": "Full Stack Developer",
+      "url": "https://www.onesystem.com.co/",
+      "startDate": "2024-12-16",
+      "endDate": null,
+      "summary": "Trabajo como analista desarrollador.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Axcel Soft",
       "position": "FrontEnd Developer",
       "url": "https://axcelsoftware.com/",
       "startDate": "2023-02-27",
       "endDate": "2023-09-29",
       "summary": "Labore como desarrollador en multiples proyectos con 2 clientes.",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
       "name": "SoftCaribbean",
@@ -44,7 +57,9 @@
       "startDate": "2021-10-15",
       "endDate": "2022-10-15",
       "summary": "Trabaje como analista desarrollador en distintos proyectos con distintos clientes.",
-      "highlights": ["Started the company"]
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "volunteer": [
@@ -55,7 +70,9 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -67,7 +84,9 @@
       "startDate": "2016-01-20",
       "endDate": "2021-08-17",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     },
     {
       "institution": "Universidad de Cordoba",
@@ -77,7 +96,9 @@
       "startDate": "2021-01-02",
       "endDate": "2021-06-1",
       "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
     }
   ],
   "awards": [
@@ -109,17 +130,29 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "Tailwind",
@@ -144,7 +177,12 @@
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
     },
     {
       "name": "MySQL",
@@ -159,7 +197,11 @@
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
     },
     {
       "name": "GitHub",
@@ -185,11 +227,22 @@
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-    },{
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
       "name": "React Native",
       "level": "Basic",
-      "keywords": ["Desarrollo Movil", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Desarrollo Movil",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     }
   ],
   "languages": [
@@ -205,7 +258,10 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
     }
   ],
   "references": [
@@ -215,6 +271,18 @@
     }
   ],
   "projects": [
+    {
+      "name": "BCGS",
+      "isActive": true,
+      "description": "Software interno catastral para los distintos clientes de la empresa",
+      "highlights": [
+        "Angular 1, 15",
+        "Java - Spring Boot",
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "url": null
+    },
     {
       "name": "Tipi Prinza - Inmobiliaria - Arpi",
       "isActive": true,
@@ -232,21 +300,31 @@
       "name": "TCC",
       "isActive": true,
       "description": "Software interno para la gestión de transporte de paquetes de la empresa",
-      "highlights": ["Angular 1, 8, 12", "Java - Spring Boot", "Oracle PL SQL"],
+      "highlights": [
+        "Angular 1, 8, 12",
+        "Java - Spring Boot",
+        "Oracle PL SQL"
+      ],
       "url": null
     },
     {
       "name": "Ito Software - ATEC, OBS",
       "isActive": true,
       "description": "Observador software interno, Asistencia técnica software para brindar asistencia a colegios de la ciudad de Bogotá",
-      "highlights": ["Angular 13"],
+      "highlights": [
+        "Angular 13"
+      ],
       "url": null
     },
     {
       "name": "Savia EPS",
       "isActive": true,
       "description": "Gestión, registro, seguimiento de pacientes con enfermedades de alto costo",
-      "highlights": ["TypeScript", "React", "MySQL"],
+      "highlights": [
+        "TypeScript",
+        "React",
+        "MySQL"
+      ],
       "url": null,
       "github": null
     },
@@ -254,7 +332,9 @@
       "name": "IMPEL - SIES",
       "isActive": true,
       "description": "Agendamiento, gestión de citas, seguimiento de pacientes y profesionales",
-      "highlights": ["React"],
+      "highlights": [
+        "React"
+      ],
       "url": null,
       "github": null
     },
@@ -262,7 +342,9 @@
       "name": "IMPEL - JEP, TuAgenda, CRC, SYSO, Credi Expertos",
       "isActive": true,
       "description": "Multiples proyectos basados en agendamiento y/o registro de citas",
-      "highlights": ["Angular"],
+      "highlights": [
+        "Angular"
+      ],
       "url": null,
       "github": null
     }
